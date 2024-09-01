@@ -1,0 +1,19 @@
+.btn{
+    border: none;
+    height: 50px;
+    padding: 0 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    border-radius: 25px;
+    cursor: pointer;
+    background-color: #162120;
+    color : white;
+    transition: .3s;
+}
+.btn:focus{
+    outline: none;
+}
+.btn:hover{
+    background-color: #30413f;
+
+}
